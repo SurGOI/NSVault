@@ -3,7 +3,7 @@
     "games": [
         { 
             "name": "Nintendo Switch CFW 19.0.1 - AIO", 
-            "file": ["#"], 
+            "file": ["https://github.com/SurGOI/NSVault/releases/download/NSV_R1.0.0_CFW/NSV_R1.0.0_CFW_2025.zip"], 
             "image": "./data/img/SWITCH/Athmospherev18.png",
             "date": "25-05-2025" 
         } ,
