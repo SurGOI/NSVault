@@ -1,12 +1,12 @@
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('./data/json/switch.json')
+    fetch('./data/json/switchCFW.json')
         .then(response => response.json())
         .then(data => {
             const contentDiv = document.getElementById('content');
 
             // Check if alphabetical sorting is enabled
             if (data.Alphabetical_order) {
-                data.games.sort((a, b) => a.name.localeCompare(b.name));
+                data.games.sort((b, a) => a.date.localeCompare(b.date));
             }
 
             // Create a table element

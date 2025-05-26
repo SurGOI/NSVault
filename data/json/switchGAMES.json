@@ -1,0 +1,41 @@
+{
+    "Alphabetical_order": true,
+    "games": [
+        { 
+            "name": "Disney Dreamlight Valley", 
+            "file": ["./data/games/Switch/Disney_Dreamlight_Valley.zip"], 
+            "image": "./data/img/SWITCH/DisneyDreamlightValley.jpg",
+            "date": "26-05-2025" 
+        },
+        { 
+            "name": "LEGO Harry Potter Collection", 
+            "file": ["./data/games/Switch/LEGO_Harry_Potter_Collection.zip"],
+            "image": "./data/img/SWITCH/LEGO_Harry_Potter_Collection.jpg",
+            "date": "26-05-2025" 
+        },
+        { 
+            "name": "LEGO Horizon Adventures", 
+            "file": ["./data/games/Switch/LEGO_Horizon_Adventures.zip"], 
+            "image": "./data/img/SWITCH/LEGO_Horizon_Adventures.jpg",
+            "date": "26-05-2025" 
+        },
+        { 
+            "name": "LEGO City Undercover", 
+            "file": ["./data/games/Switch/LEGO_City_Undercover.zip"], 
+            "image": "./data/img/SWITCH/LEGO_City_Undercover.jpg",
+            "date": "26-05-2025" 
+        },
+        { 
+            "name": "Slime Rancher Plortable Edition", 
+            "file": ["./data/games/Switch/Slime_Rancher_Plortable_Edition.zip"], 
+            "image": "./data/img/SWITCH/Slime_Rancher_Plortable_Edition.jpg",
+            "date": "26-05-2025" 
+        },
+        { 
+            "name": "Graveyard Keeper", 
+            "file": ["./data/games/Switch/Graveyard_keeper.zip"], 
+            "image": "./data/img/SWITCH/Graveyard_Keeper.jpg",
+            "date": "26-05-2025" 
+        }
+    ]
+}

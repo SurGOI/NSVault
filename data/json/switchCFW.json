@@ -1,0 +1,17 @@
+{
+    "Alphabetical_order": true,
+    "games": [
+        { 
+            "name": "Sthetix HATS 1.8.0 - 19.0.1", 
+            "file": ["./data/games/Switch/HATS-1.8.0-V1.3.zip"], 
+            "image": "./data/img/SWITCH/sthetix.png",
+            "date": "25-05-2025" 
+        },
+        { 
+            "name": "Sthetix HATS 1.7.1 - 18.1.0", 
+            "file": ["./data/games/Switch/HATS-1.71-5.zip"], 
+            "image": "./data/img/SWITCH/sthetix.png",
+            "date": "24-05-2025" 
+        }
+    ]
+}
